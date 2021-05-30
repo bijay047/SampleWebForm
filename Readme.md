@@ -1,10 +1,10 @@
 # JsonPowerDB
 ## "This is a sample webform made using **JSONPowerDB** and how to use JPDB for CRUD operations.."
 
-**[documentation link]**(https://login2explore.com/jpdb/docs.html)
+**[documentation link](https://login2explore.com/jpdb/docs.html) **
  
  ## About JsonPowerDB
-**Strong JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-  value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development. **
+- Strong JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB,   R   RDBMS, Key-  value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development. 
 
 ## Advantage of using JsonPowerDB
 - Simplest way to retrieve data in a JSON format.
@@ -15,5 +15,6 @@
 
 ## Screenshots -
 ![Dashboard](images/a.png)
+
 ![](images/b.png)
  
